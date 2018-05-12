@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37841'
     url: http://www.gutenberg.org/2009/agents/37841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35701#Sekavia-solmujaHuvin-ytelm--3-ssa-n-yt-ksess-
 gutenberg_issued: '2011-03-28'
 gutenberg_type: Text
 identifiers:
